@@ -1,0 +1,45 @@
+.form-create  {
+    text-decoration: none;
+    color: white;
+}
+
+.new-post { 
+    text-align: center;
+}
+
+input { 
+    margin-bottom: 20px;
+}
+
+.submit { 
+    background-color:#0d6efd ;
+    border: solid #0d6efd;
+    border-radius: 10%;
+}
+
+#thumbnailImage { 
+    object-fit: cover; 
+}
+
+#editForm { 
+    max-width: 600px; 
+    margin: 0 auto; 
+    padding: 20px; 
+    border: 1px solid #ccc; 
+    border-radius: 5px;}
+
+
+.btn-custom { 
+    width: 90px;
+    text-align: center;
+    font-size: 12px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+  }
